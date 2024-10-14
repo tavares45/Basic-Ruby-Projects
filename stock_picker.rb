@@ -1,6 +1,6 @@
 stock_prices = [17, 3, 6, 9, 15, 8, 6, 1, 10]
 
-def stock_picker(prices)
+def stock_picker(stock_prices)
   best_buy_day = 0
   max_profit = 0
   best_days = [0, 0]
